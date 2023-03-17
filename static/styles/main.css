@@ -1,0 +1,6 @@
+p{
+    color: black;
+}
+/*
+use STATICFILES_DIR to make django know where the css files are located.
+*/
